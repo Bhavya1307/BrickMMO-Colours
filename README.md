@@ -1,4 +1,4 @@
-# BrickMMO - Colors
+# BrickMMO - Colours
 
 Welcome to Colours, an innovative tool designed for developers, offering a comprehensive color palette to enhance your projects. This platform not only provides detailed information about various LEGO colors but also assists in seamlessly integrating these hues into your designs. Join us as we explore how Colours can elevate your creative process and streamline your development workflow.
 
